@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+
+.saad{
+    text-align: center;
+    color: white;
+}
+
+.work{
+    margin-right: 00px;
+    background-color: white;
+    color: black;
+    display: flex;
+}
+
+.ccc{
+    height: 400px;
+    width: 500px;
+    margin-left: 00px;
+    margin-top: 40px;
+}
+
+.bbb{
+    padding: 100px;
+    margin-top: 100px;
+}
